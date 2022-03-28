@@ -1,0 +1,7 @@
+first=input('Enter first dig: ')
+sec=input('Enter second dig: ')
+th=input('Enter third dig: ')
+num=(f'{first}{sec}{th}')
+print(num)
+inum=int(num)
+print(inum*2)
